@@ -1,5 +1,7 @@
 languaje: python
-  python:
-    "3.6"
-  script:
-    python generacionNumAleatorios.py
+python:
+  "3.6"
+install:
+  pip install bs4
+script:
+  python test_cosa3.py
