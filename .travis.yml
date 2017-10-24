@@ -2,4 +2,4 @@ languaje: python
 python:
   "3.6"
 script:
-  python test_cosa3.py
+  python test.py
