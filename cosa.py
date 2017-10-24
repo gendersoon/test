@@ -19,8 +19,8 @@ def birthdayCakeCandles(n, ar):
     #regresa la cuenta
     return c
 
-'''n = int(input().strip())
-ar = list(map(int, input().strip().split(' ')))
+#n = int(input().strip())
+#ar = list(map(int, input().strip().split(' ')))
 
-result = birthdayCakeCandles(n, ar)
-print(result)'''
+#result = birthdayCakeCandles(n, ar)
+#print(result)
