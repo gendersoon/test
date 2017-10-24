@@ -1,4 +1,5 @@
 languaje: python
   python:
     "3.6"
-    
+  script:
+    generacionNumAleatorios
