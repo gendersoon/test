@@ -1,5 +1,5 @@
 import unittest
-from cosa3 import birthdayCakeCandles
+from cosa import birthdayCakeCandles
 
 class TestCake(unittest.TestCase):
 

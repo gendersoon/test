@@ -1,7 +1,7 @@
 #problema 2 : Cake-Candles
 import sys
 
-def birthdayCakeCandles(n, ar):
+def birthdayCakeCandles(n,ar):
     #la lista es acomodada de forma decendente
     ar.sort(reverse=True)
     #con esto podemos saber que el núm con mas tamaño se encuentra en la posición 0
